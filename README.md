@@ -200,3 +200,4 @@ MIT License - See LICENSE file for details
 ---
 
 Built with <3 using Next.js and FastAPI
+Stay Tunned
